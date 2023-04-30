@@ -16,7 +16,7 @@ Just replace site_url in ACMAscrapper.ipynb and download the panda dataframe wit
 
 ### Input
 
-[https://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=10030844](https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=502182)
+[https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=502182](https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=502182)
 
 
 ### Output
