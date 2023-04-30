@@ -22,5 +22,5 @@ Just replace site_url in ACMAscrapper.ipynb and download the panda dataframe wit
 ### Output
 > _Note: Excel file exported is saved in the project files with site's names as the file name. It has automatically ommited the data of "Not Found" page with id of 11374552/1 and BSL/Licence No of 1136355/1 from Vodafone Australia Pty Limited (536963)_
 
-![image](https://user-images.githubusercontent.com/45975234/235343990-5e83ed2a-41fd-4d42-b45a-16784f98f2b8.png)
+![image](https://user-images.githubusercontent.com/45975234/235347765-97a4102f-d8ff-4112-96e0-c54df6d72e38.png)
 
