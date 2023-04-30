@@ -7,6 +7,11 @@ Getting information from ACMA for engineers (telecom, compliance, EME) is not on
 
 Just replace site_url in ACMAscrapper.ipynb and download the panda dataframe with information (Licence Number,	Device Registration ID,	Client,	Date, Authorised,	Device Type,	Emission Center, Frequency,	Antenna	Antenna Height (AGL),	Antenna Polarisation,	Antenna Azimuth	Antenna Tilt) of all device ids of a site.
 
+## Features
+- Automatically omits the "not found" links of site lookup.
+- Collects both receiver/transmitter details of hybrid antennas.
+- Exports meaningful data to excel saving you load of time to identify the antenna (using antenna model, carrier, owner, azimuth, height) and get your desired information (frequency, power)
+
 ## Example input and Output
 
 Input = https://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=10030844
