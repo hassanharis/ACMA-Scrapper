@@ -18,8 +18,9 @@ Just replace site_url in ACMAscrapper.ipynb and download the panda dataframe wit
 
 [https://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=10030844](https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=502182)
 
-Note: Excel file exported is saved in the files with site's names as the file name. It has automatically ommited the data of "Not Found" page with id of 11374552/1 and BSL/Licence No of 1136355/1 from Vodafone Australia Pty Limited (536963)
 
 ### Output
+> _Note: Excel file exported is saved in the project files with site's names as the file name. It has automatically ommited the data of "Not Found" page with id of 11374552/1 and BSL/Licence No of 1136355/1 from Vodafone Australia Pty Limited (536963)_
 
-![image](https://user-images.githubusercontent.com/45975234/235343432-bdebd728-03a8-4256-8f0c-3ee496f1d854.png)
+![image](https://user-images.githubusercontent.com/45975234/235343990-5e83ed2a-41fd-4d42-b45a-16784f98f2b8.png)
+
