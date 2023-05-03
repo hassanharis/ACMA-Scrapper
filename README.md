@@ -20,7 +20,7 @@ Just replace site_url in ACMAscrapper.ipynb and download the panda dataframe wit
 
 
 ### Output
-> _Note: Excel file exported is saved in the project files with site's names as the file name. It has automatically ommited the data of "Not Found" page with id of 11374552/1 and BSL/Licence No of 1136355/1 from Vodafone Australia Pty Limited (536963)_
+> _Note: The exported Excel file is saved in the "project files of this github repository" with site's name as the file name. It has automatically ommited the data of "Not Found" page with id of 11374552/1 and BSL/Licence No of 1136355/1 from Vodafone Australia Pty Limited (536963)_
 
 ![image](https://user-images.githubusercontent.com/45975234/235347800-16935b6b-f214-4ab8-b091-aae59604ffd1.png)
 
