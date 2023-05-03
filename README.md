@@ -11,6 +11,9 @@ Just replace site_url in ACMAscrapper.ipynb and download the panda dataframe wit
 - Automatically omits the "not found" links of site lookup.
 - Collects both receiver/transmitter details of hybrid antennas.
 - Exports meaningful data to excel saving you load of time to identify the antenna (using antenna model, carrier, owner, azimuth, height) and get your desired information (frequency, power)
+- Reorganizes the Antenna Names.
+- Reformat the Carrier the name to ensure they are rightly capitalise
+
 
 ## Example input and Output
 
