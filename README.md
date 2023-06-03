@@ -9,10 +9,14 @@ Just replace site_url in ACMAscrapper.ipynb and download the excel sheet with in
 
 ## Features
 - Automatically omits the "not found" links of site lookup.
+- Scrape all assignments on all pages of site
+- Filter the assignments on the basis of client, type (transmitter), or/and frequency rnge
 - Collects both receiver/transmitter details of hybrid antennas.
 - Exports meaningful data to excel saving you load of time to identify the antenna (using antenna model, carrier, owner, azimuth, height) and get your desired information (frequency, power)
+- Retrieve the destination links of yagi's and dishes/parabolic
+- All frequencies converted to MHz
 - Reorganizes the Antenna Names.
-- Reformat the Carrier the name to ensure they are rightly capitalise
+- Reformat and clean the data in all columns
 
 
 ## Example input and Output
