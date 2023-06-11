@@ -31,5 +31,6 @@ Just replace site_url in ACMAscrapper.ipynb and download the excel sheet with in
 ### Output
 > _Note: The exported Excel file is saved in the "project files of this github repository" with ACMA site iD and site's name as the file name.
 
-![image](https://user-images.githubusercontent.com/45975234/235347800-16935b6b-f214-4ab8-b091-aae59604ffd1.png)
+![image](https://github.com/hassanharis/ACMA-Scrapper/assets/45975234/c500ddb8-dc01-4afa-bd8d-b0d2d1a63535)
+
 
