@@ -15,9 +15,10 @@ Just replace site_url in ACMAscrapper.ipynb and download the excel sheet with in
 - Exports meaningful data to excel saving you load of time to identify the antenna (using antenna model, carrier, owner, azimuth, height) and get your desired information (frequency, power)
 - Retrieve the destination links of yagi's and dishes/parabolic
 - All frequencies converted to MHz
-- Reorganizes the Antenna Names
+- Reorganizes the Antenna Name (Manufacturer, model, type)
 - Modular coding with best programming practices to scrape the data as fast as possible
 - Reformat and clean the data in all columns
+- Sorted by Client > Antenna > Azimuth for easy identification
 
 
 ## Example input and Output
